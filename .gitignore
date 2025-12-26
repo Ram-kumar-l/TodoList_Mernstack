@@ -1,0 +1,10 @@
+﻿node_modules/
+mernstack1_frontend1/node_modules/
+MERNstack1_project1/node_modules/
+
+.env
+mernstack1_frontend1/.env
+MERNstack1_project1/.env
+
+mernstack1_frontend1/build/
+MERNstack1_project1/dist/
